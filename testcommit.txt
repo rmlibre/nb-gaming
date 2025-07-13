@@ -1,1 +1,4 @@
 this is me learning git in the cmdline
+
+
+i'm learning too!! hehe.
